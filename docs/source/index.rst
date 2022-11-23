@@ -6,7 +6,7 @@ Contents
 
 .. toctree::
 
-   ourTeam
+   about
    robotDesign
    clawDesign
    liftDesign
