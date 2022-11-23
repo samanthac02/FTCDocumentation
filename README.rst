@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Documentation for FTC Team 21507 NerdHerd A
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Links to website:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+ftcdocumentation.readthedocs.io
+ftcdocumentation.rtfd.io
