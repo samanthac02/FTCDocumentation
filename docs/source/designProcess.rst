@@ -48,11 +48,12 @@ Possible solutions:
 *********************
 
 * Linear slides
-* 4-bar Arm
+* Scissor lift
 * Elevator
 
-
 We created the design matrix shown below and decided to build a linear slide for our lifting mechanism. 
+
+
 
 Prototype:
 *********************
