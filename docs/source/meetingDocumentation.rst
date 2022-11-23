@@ -39,7 +39,7 @@ We created the design matrix shown below and decided to build a linear slide for
 
 **Prototype:**
 
-We found documentation from REV on how to build a linear slide system (https://docs.revrobotics.com/duo-build/linear-motion-kit). We realized we are missing many of the parts that are in the linear motion kit, so we decided to print the parts on our 3D printers.
+We found documentation from REV on how to build a linear slide system (https://docs.revrobotics.com/duo-build/linear-motion-kit). We realized we are missing many of the parts that are in the linear motion kit, so we planned on printing the parts on our 3D printers.
 
 ======================================
 
