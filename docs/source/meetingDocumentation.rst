@@ -13,6 +13,7 @@ Lift Design:
 *********************
 
 **Needs and Constraints:**
+
 * Under 14in tall when collapsed (accounts for mounting on 4in wheels)
 
 * Over 30in tall when expanded
