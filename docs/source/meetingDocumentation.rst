@@ -118,7 +118,7 @@ Programming: Owen, Jadon
 
 * Robot + Field inspection checklist 
 
-**Build/CAD notes:**
+**Build/CAD Notes:**
 
 * Electrical components: plan out way to secure onto robot 
 
