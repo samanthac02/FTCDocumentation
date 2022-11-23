@@ -2,6 +2,12 @@
 Meeting Documentation
 *****
 
+11/22/21 Meeting
+#####
+
+Chiyo, Samantha, Camille, Sumedh, Owen, and Priyanshu met in person to build the robot. We decided to build an 2-bar arm that would be able to reach the low junction. The arm uses a 5:1 gear ratio and an ultraplanetary gearbox. In the end, the arm was able to reach high enough to score in the middle junction.
+
+
 11/22/22 Design Meeting
 #####
 
