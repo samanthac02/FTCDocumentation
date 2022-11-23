@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Nerd Herd A Documentation'
+copyright = '2022, Nerd Herd A'
+author = 'Nerd Herd A'
 
 release = '0.1'
 version = '0.1.0'
