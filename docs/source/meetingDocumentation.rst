@@ -17,27 +17,12 @@ Additionally, we found that a normal open-close type claw would be easier to pro
   
 For our lifting mechanism, we considered using linear slides, a reverse virtual arm, and elevator in combination with an arm. The factors we considered into our decision include speed, feasibility with our current materials, consistency based on matches we have seen, and stability of the mechanism. We created the design matrix below to decide which mechanism to build, ultimately being a reverse virtual arm.
 
-.. list-table:: Lift Mechanism Design Matrix
-   :widths: 25 25 50
-   :header-rows: 1
-
-   * - Mechanism Type
-     - Speed
-     - Feasibility
-     - Consistency
-     - Stability
-   * - Linear Slide
-     - 
-     - 
-     -
-     -
-   * - Reverse Virtual Arm
-     - 
-     -
-     -
-     -
-   * - Elevator and Arm
-     -
-     -
-     -
-     -
++------------------------+------------+-------------+-------------+-----------+
+| Mechanism Type         | Speed      | Feasibility | Consistency | Stability |
++========================+============+=============+=============+===========+
+| Linear Slide           | 0          | 0           | 0           | 0         |
++------------------------+------------+-------------+-------------+-----------+
+| Reverse Virtual Arm    | 0          | 0           | 0           | 0         |
++------------------------+------------+-------------+-------------+-----------+
+| Elevator and Arm       | 0          | 0           | 0           | 0         |
++------------------------+------------+-------------+-------------+-----------+
