@@ -21,14 +21,14 @@ Additionally, we found that a normal open-close type claw would be easier to pro
 .. image:: FTCImages/claw.png
   :width: 400
   
-For our lifting mechanism, we considered using linear slides, a reverse virtual arm, and elevator in combination with an arm. The factors we considered into our decision include speed, feasibility with our current materials, consistency based on matches we have seen, and stability of the mechanism. We created the design matrix below to decide which mechanism to build, ultimately being a reverse virtual arm.
+For our lifting mechanism, we considered using linear slides, a reverse virtual arm, and elevator in combination with an arm. The factors we considered into our decision include speed, feasibility with our current materials, consistency based on matches we have seen, and stability of the mechanism. We created the design matrix below to decide which mechanism to build, ultimately being a reverse virtual arm. We gave each mechanism a score (1 being bad and 5 being good) and totaled the scores.
 
-+------------------------+------------+-------------+-------------+-----------+
-| Mechanism Type         | Speed      | Feasibility | Consistency | Stability |
-+========================+============+=============+=============+===========+
-| Linear Slide           | 0          | 0           | 0           | 0         |
-+------------------------+------------+-------------+-------------+-----------+
-| Reverse Virtual Arm    | 0          | 0           | 0           | 0         |
-+------------------------+------------+-------------+-------------+-----------+
-| Elevator and Arm       | 0          | 0           | 0           | 0         |
-+------------------------+------------+-------------+-------------+-----------+
++------------------------+------------+-------------+-------------+-----------+-------+
+| Mechanism Type         | Speed      | Feasibility | Consistency | Stability | Total |
++========================+============+=============+=============+===========+=======+
+| Linear Slide           | 4          | 3           | 5           | 4         | 16     |
++------------------------+------------+-------------+-------------+-----------+-------+
+| Reverse Virtual Arm    | 5          | 5           | 5           | 4         | 19     |
++------------------------+------------+-------------+-------------+-----------+-------+
+| Elevator and Arm       | 3          | 5           | 4           | 5         | 17     |
++------------------------+------------+-------------+-------------+-----------+-------+
