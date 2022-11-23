@@ -2,6 +2,101 @@
 Meeting Documentation
 *****
 
+Plan For Meet 1 (From 11/21 - 12/3)
+#####
+Subteam Notes
+**********************
+
+Build/CAD: Lukas, Sumedh, Mark, Noe, Priyanshu 
+
+Admin: Emily, David
+
+Programming: Owen, Jadon
+
+**Programming Notes:**
+
+* Figure out auto pathing (watch videos of other teams’ robot auto) 
+
+* Discuss ways for signaling (camera detection – webcam) 
+
+**Admin Tasks:**
+
+* Strategy and games rules summary (list of ways to score, penalties, and other teams’ strategies) 
+
+* Team number plates 
+
+* Banner 
+
+* Alliance color tags 
+
+* Signal sleeve (make one solid color on each side) 
+
+* Engineering Portfolio organization 
+
+* Button/Pin Design (Lightning McQueen) 
+
+* Packing (make list) 
+
+* Put labels on boxes and organize 
+
+* Trifold design 
+
+* Make robot look cool (led lights) 
+
+* Robot + Field inspection checklist 
+
+**Build/CAD notes:**
+
+* Electrical components: plan out way to secure onto robot 
+
+* Make sure the robot is within the size limit 
+
+
+**11/21 - 11/27 Thanksgiving Break**
+
+**11/28 - 12/3 Week When School Gets Back**
+
+Meets + goals by that meet
+**********************
+
+**Meet 1: Sunday 12/4**
+
+* Autos (parking signal) + signal sleeve 
+
+* Consistent terminal, ground, low junction scoring 
+
+* Make beacon 
+
+* Have mecanum drive 
+
+* End game parking 
+
+**Meet 2: Sunday 12/18**
+
+* Consistent Autos + with signal sleeve 
+
+* Consistent terminal, ground, low, medium junction scoring 
+
+* Mecanum drive 
+
+* Have beacon 
+
+* End game parking 
+
+**Meet 3: Sunday 1/8**
+
+* Consistent Autos Parking Signaling 
+
+* Consistent scoring for all junctions + terminal 
+
+* Beacon to own junction 
+
+* Circuit? (the cone in a line thing on the field) 
+
+**ILT 4: Sunday 2/19 (Monrovia HS, Monrovia)**
+
+* Good bot
+
 11/22/21 Meeting
 #####
 
