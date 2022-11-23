@@ -51,6 +51,8 @@ Programming: Owen, Jadon
 
 * Make sure the robot is within the size limit 
 
+Schedule
+**********************
 
 **11/21 - 11/27 Thanksgiving Break**
 
