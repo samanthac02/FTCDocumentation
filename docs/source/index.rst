@@ -7,6 +7,7 @@ Contents
 .. toctree::
 
    about
+   designProcess
    robotDesign
    clawDesign
    liftDesign
