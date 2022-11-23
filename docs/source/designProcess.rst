@@ -37,7 +37,7 @@ Lift Design
 Need and Constraints:
 *********************
 
-* Under 18in tall when collapsed
+* Under 14in tall when collapsed (accounts for mounting on 4in wheels)
 
 * Over 30in tall when expanded
 
@@ -51,9 +51,17 @@ Possible solutions:
 * Scissor lift
 * Elevator
 
-We created the design matrix shown below and decided to build a linear slide for our lifting mechanism. 
+We created the design matrix shown below and decided to build a linear slide for our lifting mechanism. A score was given to each of the mechanism types for the shown categories (1 being bad and 5 being good) and the scores were totaled.
 
-
++-----------------+------------+-------------+-------------+-------------+-------+
+| Mechanism Type  | Weight     | Foldability | Efficiency  | Consistency | Total |
++=================+============+=============+=============+=============+=======+
+| Linear Slide    | 4          | 3           | 1           | 3           | 11    |
++-----------------+------------+-------------+-------------+-------------+-------+
+| Scissor Lift    | 4          | 1           | 1           | 1           | 7     |
++-----------------+------------+-------------+-------------+-------------+-------+
+| Elevator        | 2          | 5           | 3           | 2           | 12    |
++-----------------+------------+-------------+-------------+-------------+-------+
 
 Prototype:
 *********************
