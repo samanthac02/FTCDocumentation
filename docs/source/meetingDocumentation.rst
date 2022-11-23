@@ -2,7 +2,7 @@
 Meeting Documentation
 *****
 
-Plan For Meet 1 (From 11/21 - 12/3)
+Plan Until Meet 1 (From 11/21 - 12/3)
 #####
 Subteam Notes
 **********************
@@ -59,7 +59,7 @@ Schedule
 **11/28 - 12/3 Week When School Gets Back**
 
 Meets and Goals by That Meet
-**********************
+#####
 
 **Meet 1: Sunday 12/4**
 
