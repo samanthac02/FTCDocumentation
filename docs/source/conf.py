@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Nerd Herd A Documentation'
+project = 'Nerd Herd A'
 copyright = '2022, Nerd Herd A'
 author = 'Nerd Herd A'
 
