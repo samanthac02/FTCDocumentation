@@ -56,7 +56,7 @@ Programming: Owen, Jadon
 
 **11/28 - 12/3 Week When School Gets Back**
 
-Meets + goals by that meet
+Meets and Goals by That Meet
 **********************
 
 **Meet 1: Sunday 12/4**
