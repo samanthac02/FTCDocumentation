@@ -18,8 +18,6 @@ Lift Design:
 
 * Over 30in tall when expanded
 
-**Research:**
-
 **Possible solutions:**
 
 * Linear slides
