@@ -73,6 +73,13 @@ We were able to finish assemblying the drivebase. We also tested four motors to 
 
 ======================================
 
+10/24/22 Meeting
+#####
+
+After we decided to go with the linear slide design, we realized that we didn’t have the specific parts needed to build it. However, after getting an in-depth understanding of how this mechanism worked, we were able to figure out what other parts that we could use in order to accomplish the same task (but we’ll manufacture the specific parts later, since what we were building was just a prototype).  
+
+======================================
+
 Plan Until Meet 1 (From 11/21 - 12/3)
 #####
 Subteam Notes
