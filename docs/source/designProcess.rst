@@ -104,7 +104,7 @@ We looked at various robots from Meet 0 and on YouTube, many of which had simila
 .. image:: FTCImages/openCloseClaw.png
   :width: 600
   
-This claw design comprises of 1 motor mount, 4 "bananas", and 2 "banana" mounts. Originally, our design had standoffs to connect the top and bottom bananas, but we had to custom-design a part after finding out we used all of our standoffs.
+This claw design comprises of 1 motor mount, 4 "bananas", and 2 "banana" mounts. Originally, our design had standoffs to connect the top and bottom bananas, but we had to custom-design a part after finding out we used all of our standoffs. We also plan on ziptying grippy material to the bananas.
 
 Prototype
 *********************
