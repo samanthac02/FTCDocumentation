@@ -43,6 +43,8 @@ Meets and Goals by That Meet
 
 * Good bot
 
+======================================
+
 Tasks
 #####
 
@@ -54,6 +56,8 @@ Tasks
 * Design banner
 * Design brochures
 * Write macro for the reverse virtual arm
+
+======================================
 
 Schedule
 #####
