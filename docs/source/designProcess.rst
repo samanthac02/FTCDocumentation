@@ -83,6 +83,8 @@ Improvements
 
 To fix the friction, we are planning on sanding down the part in between the stages to allow for easier movement. We also want to get more durable string. We also found that the cycle time was a bit slower than we wanted and our lift in general could not support a lot of weight. Because of the difficulty to obtain the parts we need (we 3D printed all of our parts) and the performance of the linear slides, we plan on reconsidering other lifting mechanisms.
 
+=============================
+
 Claw Design V2 - Open-Close Claw
 #####
 
@@ -95,8 +97,40 @@ Research
 Possible solution
 *********************
 
+.. image:: FTCImages/openCloseClaw.png
+  :width: 600
+
 Prototype
 *********************
+
+Test
+*********************
+
+Improvements
+*********************
+
+=============================
+
+Lift Design V2 - Reverse Virtual Arm
+#####
+
+Need and Constraints
+*********************
+
+Research
+*********************
+
+Possible solution
+*********************
+
+.. image:: FTCImages/reverseVirtualArm.png
+  :width: 600
+
+Prototype
+*********************
+
+.. image:: FTCImages/reverseVirtualArmPicture.png
+  :width: 600
 
 Test
 *********************
