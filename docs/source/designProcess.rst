@@ -13,11 +13,15 @@ Claw Design V1 - Passive Claw
 Need and Constraints
 *********************
 
-Research
+* Able to hold a cone
+
+* Works with a servo motor
+
+Research and Possible Solution
 *********************
 
-Possible solution
-*********************
+We saw another FTC team on YouTube that used a passive claw design. Our design is based on the pictures this team posted as well as the functionality described in their video. 
+
 
 Prototype
 *********************
@@ -44,13 +48,10 @@ Need and Constraints
 
 * Over 30in tall when expanded
 
-Research
+Research and Possible Solution
 *********************
 
-We saw another FTC team on YouTube that used a passive claw design. Our design is based on the pictures this team posted as well as the functionality described in their video.
-
-Possible solutions
-*********************
+Some possible solutions we considered were:
 
 * Linear slides
 * Scissor lift
@@ -91,14 +92,19 @@ Claw Design V2 - Open-Close Claw
 Need and Constraints
 *********************
 
-Research
+* Able to hold a cone
+
+* Works with a servo motor
+
+Research and Possible Solution
 *********************
 
-Possible solution
-*********************
+We looked at various robots from Meet 0 and on YouTube, many of which had similar open-close claw designs.
 
 .. image:: FTCImages/openCloseClaw.png
   :width: 600
+  
+This claw design comprises of 1 motor mount, 4 "bananas", and 2 "banana" mounts. Originally, our design had standoffs to connect the top and bottom bananas, but we had to custom-design a part after finding out we used all of our standoffs.
 
 Prototype
 *********************
@@ -106,8 +112,12 @@ Prototype
 Test
 *********************
 
+We tested the claw and it was able to open in close. However, the side with the shaft had some trouble in movement. We figured out that the clearance on the hole, in which a bearing was located, was too large. This meant that the bearing was causing this side to be somewhat free-spinning.
+
 Improvements
 *********************
+
+Because the hole for the side with the shaft was too large, we redesigned the claw with a hexagon in the banana. The hexagon was measured to be the size of the shaft, so the shaft could directly control the banana's movement.
 
 =============================
 
@@ -117,11 +127,18 @@ Lift Design V2 - Reverse Virtual Arm
 Need and Constraints
 *********************
 
-Research
+* Under 14in tall when collapsed (accounts for mounting on 4in wheels)
+
+* Over 30in tall when expanded
+
+* Quick to completely expand
+
+* Uses minimal number of custom / 3D printed parts
+
+Research and Possible Solution
 *********************
 
-Possible solution
-*********************
+In researching other FTC robots on YouTube, we came across a video by REV about lift prototypes. This video introduced us to the reverse virtual arm (also known as the reverse virtual four bar). The cycle time was extremely fast and we would be able to make it entirely out of materials we currently have.
 
 .. image:: FTCImages/reverseVirtualArm.png
   :width: 600
