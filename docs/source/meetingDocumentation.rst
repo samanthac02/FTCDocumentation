@@ -256,3 +256,40 @@ For our lifting mechanism, we considered using linear slides, a reverse virtual 
 +------------------------+------------+-------------+-------------+-----------+-------+
 | Elevator and Arm       | 3          | 5           | 4           | 5         | 17    |
 +------------------------+------------+-------------+-------------+-----------+-------+
+
+=============================
+
+Claw Design V2 - Open-Close Claw
+#####
+
+Need and Constraints
+*********************
+
+* Able to hold a cone
+
+* Works with a servo motor
+
+Research and Possible Solution
+*********************
+
+We looked at various robots from Meet 0 and on YouTube, many of which had similar open-close claw designs.
+
+.. image:: FTCImages/openCloseClaw.png
+  :width: 600
+  
+This claw design comprises of 1 motor mount, 4 "bananas", and 2 "banana" mounts. Originally, our design had standoffs to connect the top and bottom bananas, but we had to custom-design a part after finding out we used all of our standoffs. We also plan on ziptying grippy material to the bananas.
+
+Prototype
+*********************
+
+Test
+*********************
+
+We tested the claw and it was able to open in close. However, the side with the shaft had some trouble in movement. We figured out that the clearance on the hole, in which a bearing was located, was too large. This meant that the bearing was causing this side to be somewhat free-spinning.
+
+Improvements
+*********************
+
+Because the hole for the side with the shaft was too large, we redesigned the claw with a hexagon in the banana. The hexagon was measured to be the size of the shaft, so the shaft could directly control the banana's movement.
+
+=============================
