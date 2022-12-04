@@ -341,13 +341,42 @@ Because the hole for the side with the shaft was too large, we redesigned the cl
 
 =============================
 
+11/28/22 Meeting
+#####
+
+=============================
+
+11/29/22 Meeting
+#####
+
+=============================
+
+11/30/22 Meeting
+#####
+
+Sumedh built the reverse virtual arm! Here is picture of the lifting mechanism mounted on the robot:
+
+.. image:: FTCImages/reverseVirtualArmPicture.png
+  :width: 600
+
+=============================
+
 12/02/22 Meeting
 #####
+
+We tested the reverse virtual arm and found that it could reach the high junction!
 
 =============================
 
 12/03/22 Meeting
 #####
+
+Because of the limited time we had before the meet, we created an hour-by-hour schedule to make sure we got everything we need to done. Schedule:
+
+1-2:30 : finish any fixes + additions on robot
+2:30-3 : inspection + prog check
+3-4 : driving practice
+4-5 : anything else we can do to prepare for meet
 
 =============================
 
