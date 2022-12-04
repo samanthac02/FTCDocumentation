@@ -2,6 +2,73 @@
 Programming
 *****
 
+Guide to OpModes
+#####
+
+Teleop Integrated Control: 
+*****
+
+* Click START-A to activate your controller 
+
+* Driver (Controller 1): 
+
+* Left Stick – Drive 
+
+* Right Stick – Turn 
+
+* Left Trigger (Hold) – Lowers Reverse Virtual Arm  
+
+* Right Trigger (Hold) – Raises Reverse Virtual Arm 
+
+* Button A – Speed Changer (Click), from normal to slow and back again 
+
+* Operator (Controller 2):  
+
+* Left Stick – Wrist 
+
+* Right Stick – Palm  
+
+* Left Trigger (Click) – Closes Claw 
+
+* Right Trigger (Click) – Opens Claw 
+
+Autonomous Signal Detection with Movement:
+*****
+
+* Place the robot all the way back and centered on the tile 
+
+* Uses the robot’s camera to find cone with signal and parks in Location 
+
+* Tag IDs: 
+
+  * 121 = Left (Location 1) 
+
+  * 122 = Center (Location 2) 
+
+  * 123 = Right (Location 3) 
+
+* Make sure to INIT at least 5 seconds in advance to give the camera sufficient time to find the signal. 
+
+Motor Tests:
+*****
+
+* Controlled by Controller 1 Left Stick 
+
+* One Motor Test  
+
+* Dual Motor Test 
+
+* Super Motor Test (up to 4 motors) 
+
+RVA Test: Controlled by Controller 1
+*****
+
+* Motors C & D (Runs at 0.4 power) 
+
+* Left Trigger (Hold) – Lowers Reverse Virtual Arm  
+
+* Right Trigger (Hold) – Raises Reverse Virtual Arm 
+
 Teleop
 #####
 
