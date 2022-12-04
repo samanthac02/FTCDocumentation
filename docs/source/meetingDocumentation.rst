@@ -344,10 +344,14 @@ Because the hole for the side with the shaft was too large, we redesigned the cl
 11/28/22 Meeting
 #####
 
+We finished designing the claw we 3D printed the parts and began assembling it.
+
 =============================
 
 11/29/22 Meeting
 #####
+
+We finished assembling the main parts of the claw. All we have left to do for the claw is ziptyping the grippy material and testing it.
 
 =============================
 
@@ -358,6 +362,10 @@ Sumedh built the reverse virtual arm! Here is picture of the lifting mechanism m
 
 .. image:: FTCImages/reverseVirtualArmPicture.png
   :width: 600
+  
+We also tested the claw. Here is a video of it opening and closing:
+
+There was a problem with the side of the claw connected to the shaft. It would move sometime and not move at all other time, but it always moved less smooth than the other side. We realized that the hole for the bearing was slightly too large so we redesigned the motor mount part to work without a bearing (a hexagon shaped hole makes it so the banana is directly controlled by the shaft).
 
 =============================
 
