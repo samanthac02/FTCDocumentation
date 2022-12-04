@@ -365,6 +365,8 @@ Sumedh built the reverse virtual arm! Here is picture of the lifting mechanism m
   
 We also tested the claw. Here is a video of it opening and closing:
 
+[INSERT VIDEO]
+
 There was a problem with the side of the claw connected to the shaft. It would move sometime and not move at all other time, but it always moved less smooth than the other side. We realized that the hole for the bearing was slightly too large so we redesigned the motor mount part to work without a bearing (a hexagon shaped hole makes it so the banana is directly controlled by the shaft).
 
 =============================
@@ -382,8 +384,11 @@ We tested the reverse virtual arm and found that it could reach the high junctio
 Because of the limited time we had before the meet, we created an hour-by-hour schedule to make sure we got everything we need to done. Schedule:
 
 1-2:30 : finish any fixes + additions on robot
+
 2:30-3 : inspection + prog check
+
 3-4 : driving practice
+
 4-5 : anything else we can do to prepare for meet
 
 =============================
