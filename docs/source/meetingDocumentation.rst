@@ -70,13 +70,38 @@ We were able to finish assemblying the drivebase. We also tested four motors to 
 
 .. image:: FTCImages/drivebase.png
   :width: 400
+  
+=============================
+
+10/18/22 Meeting
+#####
 
 ======================================
 
 10/24/22 Meeting
 #####
 
-After we decided to go with the linear slide design, we realized that we didn’t have the specific parts needed to build it. However, after getting an in-depth understanding of how this mechanism worked, we were able to figure out what other parts that we could use in order to accomplish the same task (but we’ll manufacture the specific parts later, since what we were building was just a prototype).  
+After we decided to go with the linear slide design, we realized that we didn’t have the specific parts needed to build it. However, after getting an in-depth understanding of how this mechanism worked, we were able to figure out what other parts that we could use in order to accomplish the same task (but we’ll manufacture the specific parts later, since what we were building was just a prototype).
+
+=============================
+
+11/02/22 Meeting
+#####
+
+=============================
+
+11/07/22 Meeting
+#####
+
+=============================
+
+11/08/22 Meeting
+#####
+
+=============================
+
+11/09/22 Meeting
+#####
 
 ======================================
 
@@ -259,6 +284,28 @@ For our lifting mechanism, we considered using linear slides, a reverse virtual 
 
 =============================
 
+11/28/22 Meeting
+#####
+
+=============================
+
+11/29/22 Meeting
+#####
+
+=============================
+
+11/30/22 Presentation
+#####
+
+We were tasked by our mentor and Principles of Engineering teacher, Mr. Harder, to present to our class about our robot and competition. This is the presentation that we showed: [INSERT PRESENTATION LINK]
+
+=============================
+
+11/30/22 Meeting
+#####
+
+=============================
+
 Claw Design V2 - Open-Close Claw
 #####
 
@@ -293,3 +340,16 @@ Improvements
 Because the hole for the side with the shaft was too large, we redesigned the claw with a hexagon in the banana. The hexagon was measured to be the size of the shaft, so the shaft could directly control the banana's movement.
 
 =============================
+
+12/02/22 Meeting
+#####
+
+=============================
+
+12/03/22 Meeting
+#####
+
+=============================
+
+12/04/22 Competition - Meet 1
+#####
