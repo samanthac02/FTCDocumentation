@@ -297,7 +297,9 @@ For our lifting mechanism, we considered using linear slides, a reverse virtual 
 11/30/22 Presentation
 #####
 
-We were tasked by our mentor and Principles of Engineering teacher, Mr. Harder, to present to our class about our robot and competition. This is the presentation that we showed: [INSERT PRESENTATION LINK]
+We were tasked by our mentor and Principles of Engineering teacher, Mr. Harder, to present to our class about our robot and competition. This is the presentation that we showed: `presentation on Google Slides`_.
+
+.. _presentation on Google Slides: https://docs.google.com/presentation/d/17VvZa4iPMsuv0HgZ_Bi3JjldVUJOezuZQfXMDK44Kas/edit/
 
 =============================
 
