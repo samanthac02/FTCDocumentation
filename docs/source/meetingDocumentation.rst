@@ -415,4 +415,7 @@ Emily, Mark, and Noe were able to complete re-building the base and first stage 
 
 We also reprinted the top part of the claw and it interacted perfectly with the shaft. However, the gears on the claw did not mesh properly because there was too little space in between them. We drilled one of the holes the gear went through (not the shaft side) and plan to test and re-assemble the claw on Wednesday.
 
-Jadon and Lukas worked on creating our packing list for the next meet (https://docs.google.com/document/d/1zq24ImoR8hv5MtWEy0wEGr77v2hT9Pur1kKEpTH9zro/edit). We struggled with packing during the first meets so this will help us a lot during Meet 2.
+Jadon and Lukas worked on creating our `packing list`_ for the next meet. We struggled with packing during the first meets so this will help us a lot during Meet 2.
+
+.. _packing list: https://docs.google.com/document/d/1zq24ImoR8hv5MtWEy0wEGr77v2hT9Pur1kKEpTH9zro/edit
+
