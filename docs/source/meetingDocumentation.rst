@@ -408,9 +408,11 @@ For this meeting, we were mainly focused on getting the reverse virtual arm buil
 .. image:: FTCImages/reverseVirtualArm1212Plan.png
   :width: 600
 
-We were able to complete re-building the base and first stage of the lift. Also, we created the following spacing plan for the joint connecting the first and second stages, and we plan to assemble this part of the lift next meeting.
+Emily, Mark, and Noe were able to complete re-building the base and first stage of the lift. Also, we created the following spacing plan for the joint connecting the first and second stages, and we plan to assemble this part of the lift next meeting.
 
 .. image:: FTCImages/reverseVirtualArmJointPlan.png
   :width: 600
 
 We also reprinted the top part of the claw and it interacted perfectly with the shaft. However, the gears on the claw did not mesh properly because there was too little space in between them. We drilled one of the holes the gear went through (not the shaft side) and plan to test and re-assemble the claw on Wednesday.
+
+Jadon and Lukas worked on creating our packing list for the next meet. We struggled with packing during the first meets so this will help us a lot during Meet 2.
