@@ -397,3 +397,15 @@ Because of the limited time we had before the meet, we created an hour-by-hour s
 
 12/04/22 Competition - Meet 1
 #####
+
+=============================
+
+12/12/22 Meeting
+#####
+
+For this meeting, we were mainly focused on getting the reverse virtual arm built. Our lift mechanism previous to this meeting was unstable due to the large amounts of spacing between the components. We rebuilt the space so that all the beams were connected directly to the drivebase. We created the following plan in order to make our reverse virtual arm more stable on the joint:
+
+.. image:: FTCImages/reverseVirtualArm1212Plan.png
+  :width: 600
+
+We also reprinted the top part of the claw and it interacted perfectly with the shaft. However, the gears on the claw did not mesh properly because there was too little space in between them. We drilled one of the holes the gear went through (not the shaft side) and plan to test and re-assemble the claw on Wednesday.
