@@ -424,6 +424,6 @@ Jadon and Lukas worked on creating our `packing list`_ for the next meet. We str
 12/13/22 and 12/14/22 Progress
 #####
 
-On 12/13, we finished assembling the claw. During POE on 12/14, Owen and Priyanshu tested the claw and recorded a `video`_.
+On 12/13, we finished assembling the claw. During POE on 12/14, Owen, Lukas, and Priyanshu tested the claw and recorded a `video`_.
 
 .. _video: https://lbschools-my.sharepoint.com/:v:/g/personal/201208373_lbschools_net/EaC1TMrnCDlEpV02tHjvrBQBVoQQI92frhdzuIT3KPlBxw
